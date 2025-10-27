@@ -1,0 +1,16 @@
+---
+title: "data Wrangling project group 5"
+format: html
+---
+
+# 欢迎来到我的网站
+
+这是一份用 Quarto 写的 `.qmd` 文件。
+
+## 一个图表示例
+
+```{python}
+import matplotlib.pyplot as plt
+plt.plot([1, 2, 3], [4, 6, 8])
+plt.title("示例图")
+plt.show()
